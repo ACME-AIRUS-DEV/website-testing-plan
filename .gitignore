@@ -1,0 +1,34 @@
+# Word temporary files
+~$*.docx
+~$*.doc
+*.tmp
+
+# Excel temporary files
+~$*.xlsx
+~$*.xls
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux system files
+*~
+
+# VS Code / IDE settings
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
+
+# Backup files
+*.bak
+*.old
+*.orig
